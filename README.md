@@ -10,6 +10,20 @@ A modern, full-stack web application for discovering, creating, and sharing AI-p
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.2-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-4.24.11-black?style=for-the-badge)
 
+## 🖼️ Screenshots
+
+### Landing Page
+
+![Landing Page](public/screenshots/landing.png)
+
+### Home Page
+
+![Home Page](public/screenshots/homepage.png)
+
+### Profile Page
+
+![Profile Page](public/screenshots/profilepage.png)
+
 ## ✨ Live Demo
 
 🔗 **[View Live Application](your-deployment-url-here)**
