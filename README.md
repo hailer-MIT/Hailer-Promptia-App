@@ -17,17 +17,11 @@ A modern, full-stack web application for discovering, creating, and sharing AI-p
 
 ### Home Page
 
-![Home Page](public/screenshots/homepage.png)
+![Home Page]([public/screenshots/homepage.png](https://github.com/hailer-MIT/Hailer-Promptia-App/blob/main/public/screenshots/Homepage.png?raw=true))
 
 ### Profile Page
 
 ![Profile Page](public/screenshots/profilepage.png)
-
-## ✨ Live Demo
-
-🔗 **[View Live Application](your-deployment-url-here)**
-
-> **🎯 Demo Access:** This is a portfolio demo with Google OAuth in testing mode. To explore the full functionality, please contact me for access or use one of the authorized test accounts.
 
 ## 🎯 Key Features
 
