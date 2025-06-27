@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 🚀 Hailer Promptia - AI Prompt Sharing Platform
 
 A modern, full-stack web application for discovering, creating, and sharing AI-powered prompts. Built with cutting-edge technologies and best practices.
