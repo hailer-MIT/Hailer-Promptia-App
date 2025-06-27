@@ -13,12 +13,11 @@ A modern, full-stack web application for discovering, creating, and sharing AI-p
 
 ### Landing Page
 
-![Landing Page](public/screenshots/landing.png)
+![Landing Page](public/screenshots/landingpage.png)
 
 ### Home Page
 
-![Home Page]([public/screenshots/homepage.png](https://github.com/hailer-MIT/Hailer-Promptia-App/blob/main/public/screenshots/Homepage.png?raw=true))
-
+![Home Page](public/screenshots/Homepage.png)
 ### Profile Page
 
 ![Profile Page](public/screenshots/profilepage.png)
