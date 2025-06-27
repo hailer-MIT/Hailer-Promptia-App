@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 
-# 🚀 Hailer Promptia - AI Prompt Sharing Platform
+# 🚀 Hailer Promptia App- AI Prompt Sharing Platform
 
 A modern, full-stack web application for discovering, creating, and sharing AI-powered prompts. Built with cutting-edge technologies and best practices.
 
@@ -100,7 +99,7 @@ A modern, full-stack web application for discovering, creating, and sharing AI-p
 ## 📁 Project Structure
 
 ```
-hailer-promptia/
+hailer-promptia-app/
 ├── app/                    # Next.js 14 App Router
 │   ├── api/               # API routes
 │   │   ├── auth/          # Authentication endpoints
@@ -205,9 +204,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name** - Full Stack Developer
 
-- 🔗 [LinkedIn](your-linkedin-url)
-- 📧 [Email](mailto:your-email@example.com)
-- 🌐 [Portfolio](your-portfolio-url)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hailom-asegede/)
+- 📧 [Email](mailto:hailomasegede@example.com)
 
 ## 🙏 Acknowledgments
 
@@ -219,3 +217,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
