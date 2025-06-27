@@ -1,4 +1,3 @@
-
 # 🚀 Hailer Promptia App- AI Prompt Sharing Platform
 
 A modern, full-stack web application for discovering, creating, and sharing AI-powered prompts. Built with cutting-edge technologies and best practices.
@@ -25,7 +24,7 @@ A modern, full-stack web application for discovering, creating, and sharing AI-p
 
 ## ✨ Live Demo
 
-🔗 **[View Live Application](your-deployment-url-here)**
+🔗 \*\*[View Live Application](https://hailer-ai-promptia-app.vercel.app/)
 
 > **🎯 Demo Access:** This is a portfolio demo with Google OAuth in testing mode. To explore the full functionality, please contact me for access or use one of the authorized test accounts.
 
@@ -231,4 +230,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you found it helpful!**
-
